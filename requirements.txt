@@ -1,0 +1,4 @@
+streamlit
+opensearch-py
+openai
+python-dotenv

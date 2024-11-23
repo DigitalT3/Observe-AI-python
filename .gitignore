@@ -1,0 +1,60 @@
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+obvenv/
+env/
+.obvenv/
+.env/
+
+# Cache files
+*.egg-info/
+*.eggs/
+*.cache/
+*.pyo
+*.pyd
+*.pdb
+
+# Distribution files
+dist/
+build/
+*.whl
+
+# Test result files
+.tox/
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+*.envrc
+
+# Logs and debugging
+*.log
+*.out
+*.err
+debug.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker and Kubernetes
+*.dockerignore
+docker-compose.override.yml
+k8s/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
