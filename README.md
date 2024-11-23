@@ -54,11 +54,14 @@ Logs from these applications are centralized in **AWS OpenSearch** and analyzed 
    ```bash
    git clone https://github.com/DigitalT3/Observe-AI-python.git
    ```
-2. Create virtual environment:
 
-    ```bash
+2. Create and activate virtual environment:
 
-    ```
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
 3. Install Dependencies:
 
    ```bash
